@@ -1,4 +1,4 @@
-------WebKitFormBoundarynJT3PWNupihPZ97Y
+------WebKitFormBoundaryj6mUPmZ7CrzzOFBQ
 Content-Disposition: form-data; name="fileToUpload"; filename="산업용사물인터넷 발표.txt"
 Content-Type: text/plain
 
@@ -37,4 +37,4 @@ Content-Type: text/plain
 - 법칙 정의 : 화학 반응으로 인해 전극 통과하는 전기량은 반응에 참여한 물질의 질량에 정확히 정비례하는 법칙
 - 원리 적용 : 공기 중에 유해가스가 많을수록 산화-환원 반응에 참여하는 가스 분자수가 많아짐. 반응하는 분자가 많아지면 이동하는 전자의 양도 비례해서 늘어남. 이로 인해 흐르는 미세 전류가 강해짐. 측, 측정되는 전류의 세기를 공식에 대입하면 역으로 화학 반응을 일으킨 가스의 정확한 농도를 오차 없이 계산 가능
 
-------WebKitFormBoundarynJT3PWNupihPZ97Y--
+------WebKitFormBoundaryj6mUPmZ7CrzzOFBQ--
